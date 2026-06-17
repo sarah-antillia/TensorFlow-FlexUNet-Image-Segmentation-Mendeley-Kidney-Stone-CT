@@ -246,10 +246,10 @@ can be called
 <b>Epoch_change_inference output at starting (1,2,3)</b><br>
 <img src="./projects/TensorFlowFlexUNet/Mendeley-Kidney-Stone-CT/asset/epoch_change_infer_at_start.png" width="1024" height="auto"><br>
 <br>
-<b>Epoch_change_inference output at ending (9,10,11)</b><br>
+<b>Epoch_change_inference output at ending (13,14,15)</b><br>
 <img src="./projects/TensorFlowFlexUNet/Mendeley-Kidney-Stone-CT/asset/epoch_change_infer_at_middlepoint.png" width="1024" height="auto"><br>
 <br>
-<b>Epoch_change_inference output at ending (20,21,22)</b><br>
+<b>Epoch_change_inference output at ending (28,29,30)</b><br>
 <img src="./projects/TensorFlowFlexUNet/Mendeley-Kidney-Stone-CT/asset/epoch_change_infer_at_end.png" width="1024" height="auto"><br>
 
 <br>
