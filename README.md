@@ -13,7 +13,7 @@ and a 512x512 pixels PNG Antillia
 <b>Axial CT Imaging Dataset for AI-Powered Kidney Stone Detection: A Resource for Deep Learning Research
 </b></a> <br><br>
 For more information of Kidney Stone segmentation, please refer to our experiment 
-<a href="<a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-KSSD2025-Kidney-Stone-CT">
+<a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-KSSD2025-Kidney-Stone-CT">
 TensorFlow-FlexUNet-Image-Segmentation-KSSD2025-Kidney-Stone-CT</a><br><br>
 <hr>
 <b>Actual Image Segmentation for Mendeley-Kidney-Stone-CT Images of 512x512 pixels </b><br>
